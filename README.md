@@ -1,5 +1,13 @@
 # EVGA-X299-Micro-Opencore-Hackintosh
-EFI folder for an X299 Hackintosh
+
+### Notice:
+This repo is no longer maintained. I have replaced this machine with an M1 Mac Mini. It has fewer cores and inferior graphics performance compared to the hackintosh this EFI folder is for, but I'm tired of having to update this configuration periodically to stay up to date, and an i9-7940X will always run much hotter (and therefore louder) than the new Mini. My office is dead silent now. Even when all 8 cores are pegged during a compilie.
+
+I hope this repo has been of use to others trying to make this hardware work with macOS.
+
+## EFI folder for an EVGA X299 Micro Hackintosh
+
+Note: My EVGA X299 Micro was the first revision, not the second. This may or may not matter.
 
 GPU used is Sapphire RX 5600 XT Pulse. Fenvi card used for wifi and bluetooth (USBMap.kext has HS05 set to internal).
 
